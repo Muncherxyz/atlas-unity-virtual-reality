@@ -1,5 +1,7 @@
 360 Video
 -
+![th](https://github.com/user-attachments/assets/2f5adf3a-66fe-4d3f-97a3-02808cb1c958)
+
 
 360 Video is a VR experience that allows you to view a video within VR. The way its designed allows you to spin a full 360 and see everything within it. This project utilized certain textures within unity to make the user feel as if they were within the environment they are viewing.
 
